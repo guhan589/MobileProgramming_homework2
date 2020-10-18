@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+        <item
+            android:title="가입하기"
+            android:id="@+id/singup_Btn"/>
+        <item
+            android:title="ID/PWD찾기"
+            android:id="@+id/find_id_passwd"/>
+        <item
+            android:title="관리자에게 연락하기"
+            android:id="@+id/call_Btn"/>
+    </group>
+</menu>
+
